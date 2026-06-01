@@ -20,5 +20,5 @@ If you're hiring for a PM who can hold a credible conversation with engineering 
 
 ### Reach me
 
-- LinkedIn: *(https://www.linkedin.com/in/paahul/)*
+- LinkedIn: *https://www.linkedin.com/in/paahul/*
 - Email: *sikandpaahul@gmail.com*
