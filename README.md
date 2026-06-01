@@ -1,6 +1,6 @@
 ## Hi, I'm Paahul
 
-I'm a product manager working on enterprise SaaS, currently focused on identity, security, and platform problems in the iPaaS space. I've been building AI products end to end, not because I'm switching to engineering, but because the fastest way to make good calls about AI products is to have actually shipped them: structured-output prompt design, evals, background pipelines, multi-user data isolation, and the parts of the stack that don't show up in a demo.
+I'm a product manager working on enterprise SaaS, currently focused on platform problems in the iPaaS and Enterprise AI space. I've been building AI products end to end, not because I'm switching to engineering, but because the fastest way to make good calls about AI products is to have actually shipped them: structured-output prompt design, evals, background pipelines, multi-user data isolation, and the parts of the stack that don't show up in a demo.
 
 The repos below are where I do that. Each one was a deliberate step up in architectural complexity from the last.
 
